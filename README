@@ -21,7 +21,7 @@ Fonctions:
 ==========
 
 splitStr
------
+--------
 	description : decoupe une chaine par groupe de @size characteres
 	prototype   : splitStr(string, size = 2)
 	return      : un tableau contenant les differents groupes de caracteres
